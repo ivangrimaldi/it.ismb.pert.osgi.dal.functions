@@ -1,4 +1,4 @@
-# OSGi Device Abstraction Layer implementation
+# OSGi Device Abstraction Layer Functions implementation
 
 This bundle implements OSGi Device Abstraction Layer Functions [rfc0210](https://github.com/osgi/design/raw/master/rfcs/rfc0210/)
 
