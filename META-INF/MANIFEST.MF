@@ -6,3 +6,4 @@ Bundle-Version: 1.0.0.qualifier
 Export-Package: org.osgi.service.dal.functions,
  org.osgi.service.dal.functions.data
 Import-Package: org.osgi.service.dal
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

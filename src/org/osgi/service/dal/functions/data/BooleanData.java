@@ -18,7 +18,7 @@ public class BooleanData extends org.osgi.service.dal.FunctionData{
 		super(fields);
 		
 		if(fields.containsKey(FIELD_VALUE)) {
-			value = (boolean)fields.get(FIELD_VALUE);
+			value = (Boolean)fields.get(FIELD_VALUE);
 		}else{
 			throw new IllegalArgumentException();
 		}
