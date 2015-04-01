@@ -40,7 +40,6 @@ public class LevelData extends FunctionData{
 		this.unit=unit;
 	}
 
-	@Override
 	public int compareTo(Object o) {
 		return this.level.compareTo(((LevelData)o).level);
 	}
